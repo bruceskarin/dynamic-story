@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large raw downloads kept out of git (fetch per data/README.md)
+data/raw/eia8602024.zip
+data/raw/3_1_Generator_Y2024.xlsx
+
+# Office lock files
+~$*
