@@ -1,0 +1,47 @@
+series,year,value,unit,source
+crude_oil_extensions_discoveries,2024,5145,million barrels,EIA Form EIA-23L Table 1
+crude_oil_lease_condensate_production,2014,3200,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2015,3427,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2016,3223,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2017,3401,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2018,3984,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2019,4480,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2020,4154,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2021,4129,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2022,4368,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2023,4705,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_production,2024,4806,million barrels/yr,EIA Form EIA-23L Table 5 estimated production
+crude_oil_lease_condensate_proved_reserves,2014,39933,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2015,35230,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2016,35213,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2017,41990,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2018,47053,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2019,47172,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2020,38212,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2021,44418,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2022,48321,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2023,46422,million barrels,"EIA Form EIA-23L Table 5, year-end"
+crude_oil_lease_condensate_proved_reserves,2024,45951,million barrels,"EIA Form EIA-23L Table 5, year-end"
+natural_gas_extensions_discoveries,2024,67764,billion cubic feet,EIA Form EIA-23L Table 1
+natural_gas_wet_production,2014,28094,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2015,29329,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2016,29153,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2017,30391,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2018,34077,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2019,37365,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2020,37062,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2021,38098,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2022,40551,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2023,41946,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_production,2024,42338,billion cubic feet/yr,EIA Form EIA-23L Table 7 estimated production
+natural_gas_wet_proved_reserves,2014,388841,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2015,324303,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2016,341133,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2017,464292,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2018,504501,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2019,495380,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2020,473285,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2021,625373,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2022,691025,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2023,603615,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"
+natural_gas_wet_proved_reserves,2024,583942,billion cubic feet,"EIA Form EIA-23L Table 7, year-end"

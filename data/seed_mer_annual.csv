@@ -1,0 +1,484 @@
+series,year,value,unit,source
+Biomass Energy Consumption,2010,4.505629,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2011,4.616493,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2012,4.516951,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2013,4.861035,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2014,5.012637,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2015,5.008496,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2016,5.053445,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2017,5.035305,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2018,5.096018,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2019,5.047849,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2020,4.535061,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2021,4.752753,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2022,4.979625,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2023,5.020887,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2024,5.101241,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Consumption,2025,4.853097,Quadrillion Btu,EIA MER T01.03
+Biomass Energy Production,2010,4.552532,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2011,4.712436,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2012,4.553559,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2013,4.834795,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2014,5.049215,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2015,5.024958,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2016,5.122149,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2017,5.156419,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2018,5.305652,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2019,5.206851,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2020,4.699703,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2021,4.915819,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2022,5.196171,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2023,5.20194,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2024,5.308385,Quadrillion Btu,EIA MER T01.02
+Biomass Energy Production,2025,5.253789,Quadrillion Btu,EIA MER T01.02
+Coal Consumption,2010,20.833968,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2011,19.657784,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2012,17.378234,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2013,18.038633,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2014,17.997632,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2015,15.54887,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2016,14.225905,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2017,13.837465,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2018,13.251532,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2019,11.315595,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2020,9.181109,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2021,10.548526,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2022,9.887939,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2023,8.170788,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2024,7.912213,Quadrillion Btu,EIA MER T01.03
+Coal Consumption,2025,8.670671,Quadrillion Btu,EIA MER T01.03
+Coal Production,2010,22.038226,Quadrillion Btu,EIA MER T01.02
+Coal Production,2011,22.221407,Quadrillion Btu,EIA MER T01.02
+Coal Production,2012,20.676893,Quadrillion Btu,EIA MER T01.02
+Coal Production,2013,20.001304,Quadrillion Btu,EIA MER T01.02
+Coal Production,2014,20.285705,Quadrillion Btu,EIA MER T01.02
+Coal Production,2015,17.946095,Quadrillion Btu,EIA MER T01.02
+Coal Production,2016,14.667089,Quadrillion Btu,EIA MER T01.02
+Coal Production,2017,15.625377,Quadrillion Btu,EIA MER T01.02
+Coal Production,2018,15.363442,Quadrillion Btu,EIA MER T01.02
+Coal Production,2019,14.255763,Quadrillion Btu,EIA MER T01.02
+Coal Production,2020,10.703214,Quadrillion Btu,EIA MER T01.02
+Coal Production,2021,11.596284,Quadrillion Btu,EIA MER T01.02
+Coal Production,2022,12.043193,Quadrillion Btu,EIA MER T01.02
+Coal Production,2023,11.750487,Quadrillion Btu,EIA MER T01.02
+Coal Production,2024,10.578753,Quadrillion Btu,EIA MER T01.02
+Coal Production,2025,10.876014,Quadrillion Btu,EIA MER T01.02
+Crude Oil Domestic First Purchase Price,2010,74.71,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2011,95.73,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2012,94.52,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2013,95.99,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2014,87.39,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2015,44.39,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2016,38.29,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2017,48.05,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2018,61.4,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2019,55.59,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2020,36.86,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2021,65.84,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2022,93.97,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2023,76.1,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2024,74.52,Dollars per Barrel,EIA MER T09.01
+Crude Oil Domestic First Purchase Price,2025,63.41,Dollars per Barrel,EIA MER T09.01
+Crude Oil Production,2010,11.610472,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2011,12.012295,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2012,13.84866,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2013,15.86776,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2014,18.590329,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2015,19.684888,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2016,18.552338,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2017,19.581918,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2018,22.851648,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2019,25.654612,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2020,23.638678,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2021,23.51743,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2022,24.950896,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2023,26.935706,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2024,27.623829,Quadrillion Btu,EIA MER T01.02
+Crude Oil Production,2025,28.3688,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Consumption,2010,0.111428,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2011,0.115758,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2012,0.116599,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2013,0.117323,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2014,0.117672,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2015,0.117811,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2016,0.117498,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2017,0.117842,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2018,0.11798,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2019,0.116293,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2020,0.117716,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2021,0.118007,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2022,0.118389,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2023,0.119346,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2024,0.116069,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Consumption,2025,0.116962,Quadrillion Btu,EIA MER T01.03
+Geothermal Energy Production,2010,0.111428,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2011,0.115758,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2012,0.116599,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2013,0.117323,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2014,0.117672,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2015,0.117811,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2016,0.117498,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2017,0.117842,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2018,0.11798,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2019,0.116293,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2020,0.117716,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2021,0.118007,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2022,0.118389,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2023,0.119346,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2024,0.116069,Quadrillion Btu,EIA MER T01.02
+Geothermal Energy Production,2025,0.116962,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Consumption,2010,0.887813,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2011,1.089639,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2012,0.942532,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2013,0.916345,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2014,0.884959,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2015,0.849861,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2016,0.913775,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2017,1.024736,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2018,0.998092,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2019,0.982225,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2020,0.973355,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2021,0.858407,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2022,0.869339,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2023,0.835948,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2024,0.828761,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Consumption,2025,0.842843,Quadrillion Btu,EIA MER T01.03
+Hydroelectric Power Production,2010,0.887813,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2011,1.089639,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2012,0.942532,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2013,0.916345,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2014,0.884959,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2015,0.849861,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2016,0.913775,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2017,1.024736,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2018,0.998092,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2019,0.982225,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2020,0.973355,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2021,0.858407,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2022,0.869339,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2023,0.835948,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2024,0.828761,Quadrillion Btu,EIA MER T01.02
+Hydroelectric Power Production,2025,0.842843,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2010,21.805763,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2011,23.40572,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2012,24.610065,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2013,24.859072,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2014,26.718073,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2015,28.066882,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2016,27.576023,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2017,28.324845,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2018,31.882148,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2019,35.187183,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2020,35.062141,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2021,35.806859,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2022,37.56012,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2023,39.007925,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2024,39.120754,Quadrillion Btu,EIA MER T01.02
+Natural Gas (Dry) Production,2025,40.701936,Quadrillion Btu,EIA MER T01.02
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2010,24.574754,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2011,24.954539,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2012,26.088582,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2013,26.805134,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2014,27.382833,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2015,28.191095,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2016,28.400352,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2017,28.048685,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2018,31.162834,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2019,32.263692,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2020,31.669385,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2021,31.711113,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2022,33.378622,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2023,33.675905,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2024,34.179341,Quadrillion Btu,EIA MER T01.03
+Natural Gas Consumption (Excluding Supplemental Gaseous Fuels),2025,34.631111,Quadrillion Btu,EIA MER T01.03
+Natural Gas Plant Liquids Production,2010,2.704829,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2011,2.890075,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2012,3.162126,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2013,3.451386,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2014,4.005085,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2015,4.475993,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2016,4.664785,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2017,4.987096,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2018,5.726973,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2019,6.351729,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2020,6.804761,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2021,7.098605,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2022,7.741902,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2023,8.479886,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2024,9.220642,Quadrillion Btu,EIA MER T01.02
+Natural Gas Plant Liquids Production,2025,9.784912,Quadrillion Btu,EIA MER T01.02
+"Natural Gas Price, Citygate",2010,6.18,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2011,5.63,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2012,4.73,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2013,4.88,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2014,5.71,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2015,4.26,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2016,3.71,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2017,4.16,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2018,4.23,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2019,3.81,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2020,3.43,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2021,6.02,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2022,6.87,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2023,5.56,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2024,4.25,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Citygate",2025,4.85,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2010,11.39,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2011,11.03,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2012,10.65,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2013,10.32,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2014,10.97,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2015,10.38,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2016,10.05,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2017,10.91,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2018,10.5,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2019,10.51,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2020,10.78,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2021,12.18,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2022,14.75,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2023,15.4,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2024,14.5,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Delivered to Consumers, Residential",2025,15.34,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2010,5.27,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2011,4.89,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2012,3.54,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2013,4.49,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2014,5.19,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2015,3.38,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2016,2.99,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2017,3.51,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2018,3.68,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2019,2.99,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2020,2.49,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2021,5.43,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2022,7.51,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2023,3.5,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2024,2.87,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Electric Power Sector",2025,4.02,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Wellhead",2010,4.48,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Wellhead",2011,3.95,Dollars per Thousand Cubic Feet,EIA MER T09.10
+"Natural Gas Price, Wellhead",2012,2.66,Dollars per Thousand Cubic Feet,EIA MER T09.10
+Nuclear Electric Power Consumption,2010,8.434433,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2011,8.268698,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2012,8.061822,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2013,8.244433,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2014,8.337559,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2015,8.336886,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2016,8.426753,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2017,8.418968,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2018,8.438068,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2019,8.451852,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2020,8.251075,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2021,8.130913,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2022,8.06102,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2023,8.098974,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2024,8.165019,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Consumption,2025,8.195465,Quadrillion Btu,EIA MER T01.03
+Nuclear Electric Power Production,2010,8.434433,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2011,8.268698,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2012,8.061822,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2013,8.244433,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2014,8.337559,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2015,8.336886,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2016,8.426753,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2017,8.418968,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2018,8.438068,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2019,8.451852,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2020,8.251075,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2021,8.130913,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2022,8.06102,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2023,8.098974,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2024,8.165019,Quadrillion Btu,EIA MER T01.02
+Nuclear Electric Power Production,2025,8.195465,Quadrillion Btu,EIA MER T01.02
+Petroleum Consumption (Excluding Biofuels),2010,35.320511,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2011,34.639174,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2012,33.833083,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2013,34.397925,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2014,34.657827,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2015,35.368127,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2016,35.711903,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2017,36.043156,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2018,36.89182,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2019,36.866381,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2020,32.331134,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2021,35.242737,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2022,35.31863,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2023,35.44823,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2024,35.58994,Quadrillion Btu,EIA MER T01.03
+Petroleum Consumption (Excluding Biofuels),2025,36.115218,Quadrillion Btu,EIA MER T01.03
+"Refiner Acquisition Cost of Crude Oil, Composite",2010,76.69,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2011,101.87,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2012,100.93,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2013,100.49,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2014,92.02,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2015,48.39,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2016,40.66,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2017,50.68,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2018,64.38,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2019,59.38,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2020,39.75,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2021,67.83,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2022,95.29,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2023,77.67,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2024,76.64,Dollars per Barrel,EIA MER T09.01
+"Refiner Acquisition Cost of Crude Oil, Composite",2025,66.54,Dollars per Barrel,EIA MER T09.01
+Solar Energy Consumption,2010,0.06792,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2011,0.076262,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2012,0.093988,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2013,0.119904,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2014,0.161371,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2015,0.196551,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2016,0.252434,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2017,0.331366,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2018,0.38751,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2019,0.434742,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2020,0.516361,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2021,0.636353,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2022,0.783967,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2023,0.907162,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2024,1.137933,Quadrillion Btu,EIA MER T01.03
+Solar Energy Consumption,2025,1.437607,Quadrillion Btu,EIA MER T01.03
+Solar Energy Production,2010,0.06792,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2011,0.076262,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2012,0.093988,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2013,0.119904,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2014,0.161371,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2015,0.196551,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2016,0.252434,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2017,0.331366,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2018,0.38751,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2019,0.434742,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2020,0.516361,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2021,0.636353,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2022,0.783967,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2023,0.907162,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2024,1.137933,Quadrillion Btu,EIA MER T01.02
+Solar Energy Production,2025,1.437607,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Consumption,2010,80.723061,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2011,79.262601,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2012,77.303882,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2013,79.22427,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2014,80.016732,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2015,79.090311,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2016,78.31902,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2017,77.900709,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2018,81.280532,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2019,80.424546,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2020,73.168689,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2021,77.45362,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2022,78.529365,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2023,77.262487,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2024,77.644271,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Consumption,2025,79.400308,Quadrillion Btu,EIA MER T01.03
+Total Fossil Fuels Production,2010,58.15929,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2011,60.529497,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2012,62.297744,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2013,64.179522,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2014,69.599191,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2015,70.173857,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2016,65.460235,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2017,68.519236,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2018,75.824212,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2019,81.449287,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2020,76.208794,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2021,78.019178,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2022,82.296111,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2023,86.174004,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2024,86.543977,Quadrillion Btu,EIA MER T01.02
+Total Fossil Fuels Production,2025,89.731662,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Consumption,2010,95.141871,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2011,93.966595,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2012,91.677514,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2013,94.253453,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2014,95.332298,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2015,94.478128,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2016,94.08433,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2017,93.88875,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2018,97.400226,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2019,96.600277,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2020,88.876736,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2021,93.374592,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2022,94.964143,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2023,93.74624,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2024,94.582337,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Consumption,2025,96.47295,Quadrillion Btu,EIA MER T01.03
+Total Primary Energy Production,2010,72.53637,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2011,75.202334,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2012,76.546727,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2013,78.984991,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2014,84.769776,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2015,85.350656,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2016,81.067342,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2017,84.436248,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2018,92.001855,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2019,97.650802,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2020,91.920048,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2021,93.969085,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2022,98.80682,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2023,102.774309,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2024,103.642043,Quadrillion Btu,EIA MER T01.02
+Total Primary Energy Production,2025,107.16283,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Consumption,2010,5.895744,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2011,6.308195,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2012,6.150554,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2013,6.587277,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2014,6.796448,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2015,6.823451,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2016,7.111651,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2017,7.37693,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2018,7.529941,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2019,7.59066,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2020,7.295536,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2021,7.655928,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2022,8.233143,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2023,8.320277,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2024,8.725902,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Consumption,2025,8.835011,Quadrillion Btu,EIA MER T01.03
+Total Renewable Energy Production,2010,5.942647,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2011,6.404139,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2012,6.187161,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2013,6.561037,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2014,6.833026,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2015,6.839913,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2016,7.180355,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2017,7.498045,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2018,7.739575,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2019,7.749663,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2020,7.460179,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2021,7.818994,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2022,8.449689,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2023,8.501331,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2024,8.933046,Quadrillion Btu,EIA MER T01.02
+Total Renewable Energy Production,2025,9.235702,Quadrillion Btu,EIA MER T01.02
+Wind Energy Consumption,2010,0.322953,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2011,0.410043,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2012,0.480484,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2013,0.572669,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2014,0.619808,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2015,0.650732,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2016,0.774499,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2017,0.867681,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2018,0.930341,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2019,1.009551,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2020,1.153045,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2021,1.290407,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2022,1.481823,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2023,1.436934,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2024,1.541898,Quadrillion Btu,EIA MER T01.03
+Wind Energy Consumption,2025,1.584501,Quadrillion Btu,EIA MER T01.03
+Wind Energy Production,2010,0.322953,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2011,0.410043,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2012,0.480484,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2013,0.572669,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2014,0.619808,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2015,0.650732,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2016,0.774499,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2017,0.867681,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2018,0.930341,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2019,1.009551,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2020,1.153045,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2021,1.290407,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2022,1.481823,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2023,1.436934,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2024,1.541898,Quadrillion Btu,EIA MER T01.02
+Wind Energy Production,2025,1.584501,Quadrillion Btu,EIA MER T01.02

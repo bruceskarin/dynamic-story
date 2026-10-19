@@ -1,0 +1,374 @@
+status,technology,year,nameplate_mw,unit_count,unit,source
+operable,Natural Gas Fired Combined Cycle,2024,324807.8,1941,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Conventional Steam Coal,2024,188139.2,459,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Natural Gas Fired Combustion Turbine,2024,157991.3,2225,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Onshore Wind Turbine,2024,153317.1,1560,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Solar Photovoltaic,2024,122908.0,7142,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Nuclear,2024,103581.2,96,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Natural Gas Steam Turbine,2024,81413.5,556,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Conventional Hydroelectric,2024,79982.5,3978,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Petroleum Liquids,2024,31825.5,3864,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Batteries,2024,27258.5,777,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Hydroelectric Pumped Storage,2024,22224.1,150,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Wood/Wood Waste Biomass,2024,8369.9,288,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Natural Gas Internal Combustion Engine,2024,6552.7,1789,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Geothermal,2024,4002.1,163,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Municipal Solid Waste,2024,2278.1,74,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Other Gases,2024,1871.1,70,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Landfill Gas,2024,1611.6,1227,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,All Other,2024,1550.7,79,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Petroleum Coke,2024,1498.5,20,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Solar Thermal without Energy Storage,2024,1000.0,9,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Coal Integrated Gasification Combined Cycle,2024,812.7,3,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Other Waste Biomass,2024,660.1,192,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Solar Thermal with Energy Storage,2024,405.0,3,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Other Natural Gas,2024,351.2,181,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Offshore Wind Turbine,2024,172.0,3,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Natural Gas with Compressed Air Storage,2024,110.0,1,MW nameplate,EIA Form EIA-860 2024 Operable
+operable,Flywheels,2024,47.0,5,MW nameplate,EIA Form EIA-860 2024 Operable
+proposed,Onshore Wind Turbine,2007,15.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2012,21.0,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2014,80.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2014,5.3,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2015,288.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2015,10.4,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Thermal without Energy Storage,2016,200.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2016,190.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2016,45.6,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2017,994.2,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2017,107.0,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,All Other,2017,28.6,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2017,25.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2017,9.6,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2017,3.4,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2018,936.6,7,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2018,180.9,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2018,1.4,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2019,126.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,All Other,2019,50.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2019,36.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2019,28.2,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2020,3058.2,12,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2020,1819.6,29,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2020,299.8,5,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2020,2.8,6,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2020,2.6,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2021,1943.1,7,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2021,1512.0,25,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2021,578.9,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2021,73.0,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2021,22.6,9,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Landfill Gas,2021,3.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2021,2.6,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2021,2.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2022,3719.2,50,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2022,1389.3,21,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Offshore Wind Turbine,2022,800.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2022,664.2,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2022,197.9,44,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2023,11171.7,103,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2023,4825.4,52,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2023,1270.6,8,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Offshore Wind Turbine,2023,715.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2023,529.6,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2023,162.9,9,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2023,11.1,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Steam Turbine,2023,9.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2023,3.2,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2024,20132.7,217,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2024,9683.9,92,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2024,2463.9,11,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2024,1026.9,5,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Hydroelectric Pumped Storage,2024,1000.0,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2024,481.9,10,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2024,62.9,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2024,39.4,6,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Geothermal,2024,26.5,5,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2024,7.8,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Wood/Wood Waste Biomass,2024,3.6,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2024,3.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Landfill Gas,2024,3.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2025,27948.5,426,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2025,16544.0,153,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2025,6201.1,29,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2025,2379.4,27,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2025,1595.6,5,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2025,482.4,42,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2025,6.8,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2025,4.0,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2025,2.0,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2026,27221.3,225,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2026,17694.3,124,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2026,6314.0,19,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2026,5061.5,12,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2026,2650.9,25,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Offshore Wind Turbine,2026,924.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2026,116.5,13,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Geothermal,2026,53.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Steam Turbine,2026,25.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Municipal Solid Waste,2026,20.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Landfill Gas,2026,6.4,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2026,3.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2026,3.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2027,25926.3,141,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2027,13620.0,65,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2027,5303.2,49,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Offshore Wind Turbine,2027,3450.0,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2027,1525.3,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2027,1130.2,6,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Hydroelectric Pumped Storage,2027,600.0,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Geothermal,2027,107.0,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Other Waste Biomass,2027,103.4,11,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2027,75.2,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2027,33.8,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2027,17.0,5,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2028,11956.7,41,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2028,9586.1,37,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2028,7656.3,18,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2028,2334.3,19,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Hydroelectric Pumped Storage,2028,1000.0,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2028,956.0,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Internal Combustion Engine,2028,112.8,6,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,,2028,50.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Petroleum Liquids,2028,10.9,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Conventional Hydroelectric,2028,3.5,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Geothermal,2028,1.8,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2029,4989.8,13,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2029,1923.3,10,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2029,1054.0,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2029,522.0,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2029,308.0,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Solar Photovoltaic,2030,1546.0,8,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combined Cycle,2030,1524.0,3,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Nuclear,2030,500.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Natural Gas Fired Combustion Turbine,2030,490.6,4,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2030,300.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Onshore Wind Turbine,2030,246.6,2,MW nameplate,EIA Form EIA-860 2024 Proposed
+proposed,Batteries,2031,100.0,1,MW nameplate,EIA Form EIA-860 2024 Proposed
+retired,Petroleum Liquids,2010,1884.6,64,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2010,1212.4,23,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2010,1053.1,24,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2010,202.8,14,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2010,124.0,10,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2010,67.7,7,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2010,50.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2010,27.0,23,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2010,20.9,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2010,7.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2010,2.2,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2010,0.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2011,2254.3,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2011,1315.5,26,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2011,1241.7,80,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2011,240.8,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2011,207.7,12,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2011,149.5,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2011,42.2,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2011,37.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2011,20.4,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2011,16.0,10,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2011,11.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Coke,2011,10.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Gases,2011,5.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2011,4.8,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2011,2.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2011,0.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2012,8129.7,50,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2012,3202.8,29,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2012,1431.5,66,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2012,1042.6,36,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2012,332.3,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2012,307.3,17,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2012,26.5,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2012,14.1,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2012,9.3,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2012,3.6,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2012,1.2,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2012,1.2,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2013,4541.0,44,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2013,4447.2,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Nuclear,2013,3144.4,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2013,1652.1,88,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2013,651.2,34,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2013,322.0,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2013,154.7,15,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2013,47.7,22,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2013,29.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2013,26.9,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2013,18.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2013,15.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Municipal Solid Waste,2013,4.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2013,2.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2013,1.6,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2013,1.4,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Thermal without Energy Storage,2013,1.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2014,3802.0,37,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2014,1384.3,51,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2014,918.3,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2014,587.4,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2014,474.0,12,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2014,110.8,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2014,45.9,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2014,33.7,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2014,30.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2014,14.5,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2014,8.7,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2014,3.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2014,2.4,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2014,1.8,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2014,0.8,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2015,13026.3,88,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2015,1948.4,22,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2015,1025.9,48,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2015,463.4,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2015,117.1,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2015,103.3,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2015,74.5,7,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Municipal Solid Waste,2015,67.6,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Thermal without Energy Storage,2015,43.8,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2015,32.0,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2015,24.4,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2015,23.9,10,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2015,10.7,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2015,1.2,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2015,1.2,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2015,1.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2016,7650.3,47,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2016,6022.1,33,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2016,1402.5,52,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2016,1026.8,52,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Nuclear,2016,502.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2016,196.1,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Coke,2016,112.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2016,111.7,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2016,41.2,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2016,38.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2016,32.6,22,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2016,28.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2016,7.8,7,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2016,4.1,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2016,2.2,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2016,1.7,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2017,4320.1,22,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2017,2223.5,21,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2017,320.1,59,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2017,318.7,15,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2017,121.6,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2017,101.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2017,55.6,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2017,31.3,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2017,28.8,24,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2017,25.6,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2017,23.2,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2017,11.2,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2017,10.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2017,1.2,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2018,11627.1,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2018,3466.2,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2018,2213.2,59,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2018,1274.2,12,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Nuclear,2018,550.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2018,452.2,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2018,61.2,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2018,61.2,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2018,48.3,16,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2018,28.9,16,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Gases,2018,17.5,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2018,15.4,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Municipal Solid Waste,2018,12.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2018,9.2,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2018,2.7,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2018,1.2,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2018,1.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2018,0.8,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2018,0.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2019,8950.4,42,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2019,2838.9,21,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2019,653.2,23,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2019,501.0,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2019,253.3,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2019,161.4,33,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2019,145.7,43,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Coke,2019,67.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2019,57.5,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Municipal Solid Waste,2019,48.0,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2019,32.7,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2019,17.7,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2019,8.0,16,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2019,4.9,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2019,0.9,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2020,8627.0,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2020,1298.6,38,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2020,945.0,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2020,923.9,30,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2020,196.7,20,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2020,69.0,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2020,63.5,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2020,21.8,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2020,12.3,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2020,12.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2020,8.3,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2020,4.9,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2020,3.4,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2020,1.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2021,6139.7,23,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2021,815.6,52,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2021,435.1,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2021,392.3,15,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Thermal without Energy Storage,2021,92.0,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2021,87.5,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2021,69.6,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2021,46.1,27,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2021,41.9,18,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2021,25.3,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2021,13.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2021,10.5,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2021,1.3,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2022,9376.4,24,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2022,1144.3,10,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2022,595.2,53,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2022,273.1,7,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2022,158.0,7,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2022,84.0,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2022,78.0,47,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2022,70.7,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2022,48.0,12,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2022,21.3,14,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2022,17.0,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2022,10.4,9,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2022,1.7,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2022,1.1,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2023,7824.9,20,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2023,4144.9,17,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2023,628.0,22,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2023,339.5,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2023,112.4,110,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2023,107.2,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2023,71.0,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2023,58.3,112,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2023,57.7,35,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2023,55.5,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2023,49.3,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Gases,2023,38.0,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Coke,2023,27.3,1,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2023,14.7,4,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2023,14.1,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2023,10.0,11,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Steam Coal,2024,4460.0,12,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combined Cycle,2024,3122.7,24,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Steam Turbine,2024,1384.6,17,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Fired Combustion Turbine,2024,720.2,19,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Petroleum Liquids,2024,299.6,64,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Wood/Wood Waste Biomass,2024,201.3,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Conventional Hydroelectric,2024,148.6,20,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Municipal Solid Waste,2024,119.6,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Hydroelectric Pumped Storage,2024,42.0,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Landfill Gas,2024,34.9,87,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Onshore Wind Turbine,2024,34.4,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Batteries,2024,31.0,6,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Waste Biomass,2024,25.5,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Geothermal,2024,20.6,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Natural Gas Internal Combustion Engine,2024,13.3,8,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,All Other,2024,8.5,2,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Other Natural Gas,2024,5.5,5,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)
+retired,Solar Photovoltaic,2024,4.5,3,MW nameplate,EIA Form EIA-860 2024 Retired (Retirement Year >= 2010)

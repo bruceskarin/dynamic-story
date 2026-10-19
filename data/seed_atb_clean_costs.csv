@@ -1,0 +1,571 @@
+technology,metric,cost_case,year,value,unit,source
+utility_pv,capex,Advanced,2023,1672.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2024,1525.75,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2025,1421.55,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2026,1317.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2027,1213.17,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2028,1108.97,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2029,1004.78,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2030,900.59,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2031,882.03,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2032,863.47,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2033,844.92,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2034,826.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2035,807.8,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2036,789.25,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2037,770.69,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2038,752.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2039,733.57,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2040,715.02,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2041,703.34,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2042,691.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2043,679.97,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2044,668.29,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2045,656.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2046,644.93,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2047,633.24,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2048,621.56,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2049,609.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2050,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2051,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2052,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2053,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2054,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2055,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2056,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2057,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2058,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2059,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Advanced,2060,598.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2023,1672.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2024,1525.75,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2025,1465.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2026,1405.24,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2027,1344.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2028,1284.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2029,1224.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2030,1164.22,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2031,1131.75,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2032,1099.27,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2033,1066.8,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2034,1034.32,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2035,1001.84,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2036,969.37,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2037,936.89,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2038,904.41,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2039,871.94,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2040,839.46,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2041,827.8,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2042,816.15,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2043,804.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2044,792.83,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2045,781.17,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2046,769.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2047,757.86,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2048,746.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2049,734.54,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2050,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2051,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2052,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2053,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2054,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2055,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2056,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2057,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2058,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2059,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Moderate,2060,722.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2023,1672.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2024,1525.75,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2025,1498.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2026,1471.1,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2027,1443.78,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2028,1416.46,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2029,1389.14,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2030,1361.81,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2031,1357.02,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2032,1352.23,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2033,1347.44,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2034,1342.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2035,1337.86,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2036,1333.06,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2037,1328.27,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2038,1323.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2039,1318.69,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2040,1313.9,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2041,1311.02,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2042,1308.14,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2043,1305.27,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2044,1302.39,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2045,1299.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2046,1296.64,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2047,1293.76,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2048,1290.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2049,1288.0,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2050,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2051,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2052,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2053,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2054,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2055,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2056,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2057,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2058,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2059,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+utility_pv,capex,Conservative,2060,1285.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX UtilityPV Class5
+landbased_wind,capex,Advanced,2023,1968.07,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2024,1914.67,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2025,1861.27,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2026,1807.87,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2027,1754.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2028,1701.08,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2029,1647.68,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2030,1594.28,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2031,1540.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2032,1487.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2033,1434.09,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2034,1380.69,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2035,1327.29,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2036,1307.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2037,1287.67,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2038,1267.86,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2039,1248.04,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2040,1228.23,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2041,1208.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2042,1188.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2043,1168.79,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2044,1148.98,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2045,1129.17,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2046,1109.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2047,1089.54,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2048,1069.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2049,1049.92,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2050,1030.11,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2051,1026.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2052,1023.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2053,1019.98,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2054,1016.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2055,1013.23,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2056,1009.85,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2057,1006.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2058,1003.1,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2059,999.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Advanced,2060,996.35,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2023,1968.07,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2024,1919.9,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2025,1871.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2026,1823.56,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2027,1775.4,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2028,1727.23,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2029,1679.06,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2030,1630.89,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2031,1582.72,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2032,1534.55,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2033,1486.39,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2034,1438.22,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2035,1390.05,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2036,1373.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2037,1356.96,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2038,1340.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2039,1323.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2040,1307.33,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2041,1290.79,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2042,1274.25,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2043,1257.71,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2044,1241.16,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2045,1224.62,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2046,1208.08,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2047,1191.53,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2048,1174.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2049,1158.45,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2050,1141.91,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2051,1138.16,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2052,1134.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2053,1130.68,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2054,1126.94,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2055,1123.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2056,1119.46,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2057,1115.71,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2058,1111.97,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2059,1108.23,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Moderate,2060,1104.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2023,1968.07,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2024,1948.29,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2025,1928.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2026,1908.74,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2027,1888.96,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2028,1869.18,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2029,1849.41,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2030,1829.63,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2031,1809.85,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2032,1790.08,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2033,1770.3,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2034,1750.52,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2035,1730.74,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2036,1718.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2037,1706.72,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2038,1694.72,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2039,1682.71,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2040,1670.7,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2041,1658.69,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2042,1646.68,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2043,1634.67,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2044,1622.66,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2045,1610.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2046,1598.64,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2047,1586.63,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2048,1574.62,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2049,1562.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2050,1550.6,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2051,1545.52,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2052,1540.44,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2053,1535.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2054,1530.28,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2055,1525.19,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2056,1520.11,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2057,1515.03,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2058,1509.95,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2059,1504.87,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+landbased_wind,capex,Conservative,2060,1499.79,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX LandbasedWind Class4
+utility_battery_4h,capex,Advanced,2023,1851.4,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2024,1448.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2025,1291.6,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2026,1134.2,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2027,1085.96,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2028,1037.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2029,989.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2030,941.25,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2031,893.01,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2032,844.77,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2033,796.53,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2034,748.29,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2035,700.05,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2036,689.4,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2037,678.76,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2038,668.11,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2039,657.47,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2040,646.82,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2041,636.17,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2042,625.53,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2043,614.88,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2044,604.24,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2045,593.59,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2046,582.94,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2047,572.3,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2048,561.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2049,551.01,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2050,540.36,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2051,535.04,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2052,529.71,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2053,524.39,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2054,519.07,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2055,513.74,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2056,508.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2057,503.1,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2058,497.78,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2059,492.45,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Advanced,2060,487.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2023,1851.4,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2024,1448.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2025,1396.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2026,1344.46,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2027,1315.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2028,1286.53,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2029,1257.57,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2030,1228.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2031,1199.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2032,1170.69,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2033,1141.73,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2034,1112.76,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2035,1083.8,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2036,1066.55,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2037,1049.29,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2038,1032.03,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2039,1014.77,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2040,997.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2041,980.26,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2042,963.0,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2043,945.74,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2044,928.48,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2045,911.22,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2046,893.97,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2047,876.71,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2048,859.45,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2049,842.19,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2050,824.94,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2051,816.31,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2052,807.68,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2053,799.05,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2054,790.42,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2055,781.79,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2056,773.16,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2057,764.53,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2058,755.9,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2059,747.28,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Moderate,2060,738.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2023,1851.4,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2024,1448.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2025,1513.24,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2026,1577.49,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2027,1565.63,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2028,1553.76,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2029,1541.9,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2030,1530.03,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2031,1518.17,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2032,1506.31,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2033,1494.44,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2034,1482.58,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2035,1470.72,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2036,1462.19,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2037,1453.67,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2038,1445.15,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2039,1436.63,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2040,1428.11,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2041,1419.59,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2042,1411.07,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2043,1402.55,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2044,1394.03,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2045,1385.51,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2046,1376.99,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2047,1368.47,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2048,1359.95,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2049,1351.43,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2050,1342.91,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2051,1338.65,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2052,1334.39,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2053,1330.13,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2054,1325.87,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2055,1321.61,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2056,1317.35,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2057,1313.08,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2058,1308.82,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2059,1304.56,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_battery_4h,capex,Conservative,2060,1300.3,$/kW (2023$),NREL ATB 2025 v1 Summary_CAPEX Utility-Scale Battery Storage 4Hr Battery Storage
+utility_pv,lcoe,Advanced,2023,49.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2024,45.95,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2025,42.61,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2026,39.35,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2027,36.17,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2028,33.06,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2029,30.02,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2030,27.04,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2031,26.27,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2032,25.52,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2033,24.78,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2034,24.06,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2035,23.35,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2036,22.75,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2037,22.15,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2038,21.56,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2039,20.98,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2040,20.41,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2041,20.01,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2042,19.61,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2043,19.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2044,18.84,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2045,18.46,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2046,18.08,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2047,17.71,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2048,17.34,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2049,16.98,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2050,16.62,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2051,16.6,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2052,16.58,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2053,16.56,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2054,16.55,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2055,16.53,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2056,16.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2057,16.49,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2058,16.47,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2059,16.46,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Advanced,2060,16.44,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2023,49.68,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2024,46.58,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2025,44.56,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2026,42.58,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2027,40.62,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2028,38.7,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2029,36.8,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2030,34.93,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2031,33.87,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2032,32.83,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2033,31.79,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2034,30.77,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2035,29.76,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2036,28.81,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2037,27.87,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2038,26.94,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2039,26.02,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2040,25.1,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2041,24.7,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2042,24.3,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2043,23.9,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2044,23.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2045,23.12,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2046,22.73,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2047,22.35,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2048,21.97,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2049,21.59,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2050,21.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2051,21.2,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2052,21.18,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2053,21.16,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2054,21.14,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2055,21.13,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2056,21.11,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2057,21.09,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2058,21.07,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2059,21.06,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Moderate,2060,21.04,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2023,50.3,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2024,47.46,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2025,46.59,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2026,45.73,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2027,44.88,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2028,44.03,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2029,43.18,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2030,42.34,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2031,42.2,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2032,42.05,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2033,41.91,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2034,41.77,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2035,41.63,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2036,41.24,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2037,40.86,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2038,40.48,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2039,40.11,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2040,39.74,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2041,39.43,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2042,39.12,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2043,38.82,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2044,38.52,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2045,38.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2046,37.92,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2047,37.63,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2048,37.35,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2049,37.06,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2050,36.78,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2051,36.77,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2052,36.76,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2053,36.75,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2054,36.74,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2055,36.73,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2056,36.72,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2057,36.72,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2058,36.71,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2059,36.7,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+utility_pv,lcoe,Conservative,2060,36.69,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE UtilityPV Class5
+landbased_wind,lcoe,Advanced,2023,39.59,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2024,38.08,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2025,36.61,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2026,35.17,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2027,33.75,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2028,32.36,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2029,31.0,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2030,29.67,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2031,28.36,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2032,27.08,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2033,25.83,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2034,24.6,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2035,23.39,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2036,22.99,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2037,22.6,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2038,22.21,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2039,21.81,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2040,21.42,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2041,21.02,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2042,20.63,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2043,20.24,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2044,19.85,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2045,19.46,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2046,19.07,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2047,18.68,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2048,18.29,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2049,17.9,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2050,17.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2051,17.45,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2052,17.4,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2053,17.34,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2054,17.28,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2055,17.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2056,17.17,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2057,17.11,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2058,17.05,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2059,16.99,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Advanced,2060,16.94,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2023,39.59,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2024,38.29,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2025,37.01,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2026,35.75,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2027,34.5,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2028,33.28,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2029,32.08,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2030,30.89,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2031,29.72,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2032,28.56,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2033,27.43,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2034,26.31,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2035,25.21,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2036,24.91,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2037,24.62,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2038,24.32,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2039,24.03,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2040,23.74,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2041,23.44,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2042,23.15,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2043,22.86,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2044,22.57,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2045,22.28,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2046,21.99,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2047,21.7,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2048,21.41,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2049,21.12,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2050,20.83,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2051,20.76,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2052,20.69,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2053,20.62,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2054,20.56,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2055,20.49,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2056,20.42,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2057,20.35,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2058,20.28,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2059,20.21,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Moderate,2060,20.15,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2023,39.59,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2024,39.05,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2025,38.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2026,37.98,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2027,37.45,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2028,36.93,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2029,36.41,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2030,35.89,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2031,35.38,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2032,34.87,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2033,34.36,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2034,33.86,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2035,33.36,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2036,33.07,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2037,32.79,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2038,32.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2039,32.23,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2040,31.95,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2041,31.67,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2042,31.39,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2043,31.11,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2044,30.83,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2045,30.55,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2046,30.28,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2047,30.0,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2048,29.72,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2049,29.45,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2050,29.18,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2051,29.08,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2052,28.98,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2053,28.89,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2054,28.79,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2055,28.7,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2056,28.6,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2057,28.51,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2058,28.41,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2059,28.32,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
+landbased_wind,lcoe,Conservative,2060,28.22,$/MWh (2023$),NREL ATB 2025 v1 Summary_LCOE LandbasedWind Class4
