@@ -1,0 +1,5 @@
+quantity,value,unit,as_of,source
+remaining_co2_budget_1p5C_50pct,235,GtCO2,start of 2025,Global Carbon Budget 2024
+remaining_co2_budget_1p7C_50pct,585,GtCO2,start of 2025,Global Carbon Budget 2024
+remaining_co2_budget_2C_50pct,1110,GtCO2,start of 2025,Global Carbon Budget 2024
+fossil_co2_emissions,37.4,GtCO2/yr,2024 (preliminary),Global Carbon Budget 2024

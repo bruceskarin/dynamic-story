@@ -1,0 +1,527 @@
+source,band,variable,year,value_fraction
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2023,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2024,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2025,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2026,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2027,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2028,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2029,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2030,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2031,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2032,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2033,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2034,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2035,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2036,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2037,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2038,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2039,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2040,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2041,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2042,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2043,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2044,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2045,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2046,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2047,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2048,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2049,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2050,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2051,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2052,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2053,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2054,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2055,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2056,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2057,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2058,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2059,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,inflation,2060,0.025
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2023,0.061213
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2024,0.060461
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2025,0.060223
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2026,0.060589
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2027,0.060681
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2028,0.060268
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2029,0.060027
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2030,0.059901
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2031,0.059963
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2032,0.059699
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2033,0.05945
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2034,0.059602
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2035,0.059762
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2036,0.059598
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2037,0.059475
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2038,0.059363
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2039,0.059779
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2040,0.059706
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2041,0.059628
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2042,0.059687
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2043,0.059509
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2044,0.059358
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2045,0.059323
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2046,0.059143
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2047,0.059095
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2048,0.059014
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2049,0.058933
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2050,0.059051
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2051,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2052,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2053,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2054,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2055,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2056,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2057,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2058,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2059,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_rate_nominal,2060,0.059138
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2023,0.112592
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2024,0.112249
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2025,0.111996
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2026,0.112091
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2027,0.112142
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2028,0.112043
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2029,0.112013
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2030,0.112034
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2031,0.112005
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2032,0.111975
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2033,0.112008
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2034,0.112066
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2035,0.112189
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2036,0.112245
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2037,0.112206
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2038,0.112226
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2039,0.112307
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2040,0.112349
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2041,0.112456
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2042,0.112542
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2043,0.112538
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2044,0.112487
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2045,0.11242
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2046,0.112337
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2047,0.112333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2048,0.112344
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2049,0.112421
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2050,0.112429
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2051,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2052,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2053,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2054,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2055,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2056,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2057,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2058,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2059,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,equity_return_nominal,2060,0.112458
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2023,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2024,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2025,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2026,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2027,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2028,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2029,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2030,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2031,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2032,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2033,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2034,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2035,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2036,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2037,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2038,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2039,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2040,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2041,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2042,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2043,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2044,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2045,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2046,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2047,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2048,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2049,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2050,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2051,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2052,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2053,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2054,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2055,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2056,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2057,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2058,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2059,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,debt_fraction,2060,0.6
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2023,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2024,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2025,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2026,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2027,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2028,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2029,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2030,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2031,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2032,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2033,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2034,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2035,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2036,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2037,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2038,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2039,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2040,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2041,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2042,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2043,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2044,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2045,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2046,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2047,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2048,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2049,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2050,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2051,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2052,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2053,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2054,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2055,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2056,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2057,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2058,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2059,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,tax_rate,2060,0.2574
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2023,0.072311
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2024,0.071838
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2025,0.071631
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2026,0.071832
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2027,0.071894
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2028,0.07167
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2029,0.071551
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2030,0.071503
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2031,0.071519
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2032,0.071389
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2033,0.071292
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2034,0.071382
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2035,0.071503
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2036,0.071452
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2037,0.071382
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2038,0.07134
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2039,0.071558
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2040,0.071542
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2041,0.07155
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2042,0.071611
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2043,0.07153
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2044,0.071443
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2045,0.0714
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2046,0.071287
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2047,0.071264
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2048,0.071232
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2049,0.071227
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2050,0.071282
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2051,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2052,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2053,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2054,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2055,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2056,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2057,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2058,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2059,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_nominal,2060,0.071333
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2023,0.046157
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2024,0.045696
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2025,0.045494
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2026,0.04569
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2027,0.04575
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2028,0.045532
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2029,0.045415
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2030,0.045369
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2031,0.045384
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2032,0.045258
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2033,0.045163
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2034,0.045251
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2035,0.045369
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2036,0.045319
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2037,0.045251
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2038,0.04521
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2039,0.045422
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2040,0.045407
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2041,0.045415
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2042,0.045474
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2043,0.045395
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2044,0.04531
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2045,0.045268
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2046,0.045158
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2047,0.045135
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2048,0.045104
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2049,0.045099
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2050,0.045153
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2051,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2052,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2053,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2054,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2055,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2056,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2057,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2058,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2059,0.045203
+"NREL ATB 2025 WACC Calc (AEO-based, Without Tax Credits, Moderate)",atb_aeo,wacc_real,2060,0.045203
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2023,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2024,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2025,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2026,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2027,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2028,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2029,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2030,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2031,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2032,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2033,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2034,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2035,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2036,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2037,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2038,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2039,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2040,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2041,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2042,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2043,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2044,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2045,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2046,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2047,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2048,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2049,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2050,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2051,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2052,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2053,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2054,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2055,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2056,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2057,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2058,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2059,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_rate_nominal,2060,0.08
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2023,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2024,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2025,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2026,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2027,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2028,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2029,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2030,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2031,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2032,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2033,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2034,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2035,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2036,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2037,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2038,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2039,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2040,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2041,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2042,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2043,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2044,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2045,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2046,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2047,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2048,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2049,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2050,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2051,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2052,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2053,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2054,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2055,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2056,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2057,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2058,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2059,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,equity_return_nominal,2060,0.13
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2023,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2024,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2025,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2026,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2027,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2028,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2029,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2030,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2031,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2032,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2033,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2034,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2035,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2036,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2037,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2038,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2039,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2040,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2041,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2042,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2043,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2044,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2045,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2046,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2047,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2048,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2049,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2050,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2051,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2052,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2053,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2054,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2055,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2056,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2057,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2058,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2059,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,debt_fraction,2060,0.6
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2023,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2024,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2025,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2026,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2027,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2028,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2029,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2030,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2031,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2032,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2033,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2034,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2035,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2036,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2037,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2038,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2039,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2040,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2041,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2042,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2043,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2044,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2045,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2046,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2047,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2048,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2049,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2050,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2051,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2052,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2053,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2054,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2055,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2056,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2057,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2058,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2059,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,tax_rate,2060,0.4
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2023,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2024,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2025,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2026,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2027,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2028,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2029,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2030,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2031,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2032,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2033,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2034,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2035,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2036,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2037,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2038,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2039,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2040,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2041,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2042,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2043,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2044,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2045,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2046,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2047,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2048,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2049,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2050,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2051,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2052,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2053,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2054,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2055,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2056,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2057,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2058,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2059,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_nominal,2060,0.0808
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2023,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2024,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2025,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2026,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2027,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2028,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2029,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2030,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2031,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2032,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2033,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2034,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2035,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2036,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2037,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2038,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2039,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2040,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2041,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2042,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2043,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2044,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2045,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2046,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2047,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2048,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2049,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2050,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2051,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2052,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2053,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2054,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2055,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2056,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2057,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2058,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2059,0.054439
+NREL ATB 2025 WACC Calc (ReEDS fixed assumptions),atb_reeds,wacc_real,2060,0.054439
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2010,0.0604
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2011,0.0566
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2012,0.0494
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2013,0.051
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2014,0.0485
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2015,0.05
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2016,0.0472
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2017,0.0444
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2018,0.048
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2019,0.0438
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2020,0.036
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2021,0.0339
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2022,0.0507
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2023,0.0586
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2024,0.0575
+"FRED BAA (Moody's Seasoned Baa corporate yield, annual avg)",market,baa_yield_nominal,2025,0.06
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2010,0.032151
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2011,0.027816
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2012,0.018034
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2013,0.023502
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2014,0.025396
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2015,0.021383
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2016,0.018374
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2017,0.023295
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2018,0.029112
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2019,0.021414
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2020,0.008892
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2021,0.014469
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2022,0.029506
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2023,0.03959
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2024,0.04208
+"FRED DGS10 (10-year Treasury, daily averaged by year)",market,treasury10_yield_nominal,2025,0.042932

@@ -1,0 +1,5 @@
+# Energy model (model/energy_v0_1.py)
+pandas>=2.2
+matplotlib>=3.8
+# Seed builders (data/build_seed.py, data/build_cost_of_capital.py)
+openpyxl>=3.1
